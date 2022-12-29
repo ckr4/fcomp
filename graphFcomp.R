@@ -1,5 +1,3 @@
-# TODO -> Label H0 and Ha
-
 library(tidyverse)
 
 # calculate critical f-value for display
